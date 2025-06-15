@@ -1,0 +1,2 @@
+<?php
+// Intelboard App Bootstrapper
